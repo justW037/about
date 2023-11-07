@@ -21,6 +21,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
+![Express.js](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square?logo=Laravel&logoColor=white) 
 
 
 # Mobile:
